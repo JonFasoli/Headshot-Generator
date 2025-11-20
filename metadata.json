@@ -1,0 +1,5 @@
+{
+  "name": "Headshot Generator",
+  "description": "Transform your casual photos into high-quality professional headshots instantly using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
